@@ -1,6 +1,3 @@
-/* font-family: "Roboto", sans-serif;
-   font-family: "Raleway", sans-serif; */
-
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -105,7 +102,7 @@ h3 {
     color: #434455;
 }
 
-/* Ховери/фокуси лінків */
+/* Ховери/фокуси лінків (C3, C4) */
 
 .nav-link:hover,
 .nav-link:focus,
@@ -140,10 +137,10 @@ h3 {
     color: #ffffff;
     background-color: #4d5ae5;
     cursor: pointer;
-    /* b2 */
+    /* C13 */
 }
 
-/* Ховер/фокус b2*/
+/* Ховер/фокус для кнопки (C3) */
 
 .hero-button:hover,
 .hero-button:focus {
