@@ -28,8 +28,6 @@ p {
     margin: 0;
 }
 
-/* Розміри шрифтів згідно макета */
-
 h1 {
     font-size: 56px;
     line-height: 1.07;
@@ -54,14 +52,10 @@ p {
     letter-spacing: 0.02em;
 }
 
-/* Загальні кольори заголовків */
-
 h2,
 h3 {
     color: #2e2f42;
 }
-
-/* Логотип */
 
 .logo {
     font-family: "Raleway", sans-serif;
@@ -80,8 +74,6 @@ h3 {
 .footer-logo .logo-part {
     color: #f4f4fd;
 }
-
-/* Навігація */
 
 .nav-link {
     font-weight: 500;
@@ -102,16 +94,12 @@ h3 {
     color: #434455;
 }
 
-/* Ховери/фокуси лінків (C3, C4) */
-
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
     color: #404bbf;
 }
-
-/* Hero */
 
 .hero-section {
     background-color: #2e2f42;
@@ -137,23 +125,16 @@ h3 {
     color: #ffffff;
     background-color: #4d5ae5;
     cursor: pointer;
-    /* C13 */
 }
-
-/* Ховер/фокус для кнопки (C3) */
 
 .hero-button:hover,
 .hero-button:focus {
     background-color: #404bbf;
 }
 
-/* Our Team фон */
-
 .ourteam-section {
     background-color: #f4f4fd;
 }
-
-/* Footer */
 
 .page-footer {
     background-color: #2e2f42;
