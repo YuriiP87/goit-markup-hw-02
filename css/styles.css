@@ -154,3 +154,44 @@ h3 {
     color: #f4f4fd;
     max-width: 264px;
 }
+
+.team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.team-member {
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.team-role {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.team-item {
+    background-color: transparent;
+}
+
+.portfolio-title,
+.portfolio-text {
+    text-transform: capitalize;
+}
+
+.portfolio-title-main {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
